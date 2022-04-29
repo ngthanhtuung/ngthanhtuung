@@ -100,7 +100,7 @@
 <h1 align="center"><img src="https://media4.giphy.com/media/RMqPLFjn2BUH7drUt4/giphy.gif?cid=ecf05e47b545meov48ukxejkh97q1ax08mtmdq3mzs8blj0g&rid=giphy.gif&ct=s" width="30">&nbsp;&nbsp;How about some Stats?&nbsp;&nbsp;<img src="https://media4.giphy.com/media/RMqPLFjn2BUH7drUt4/giphy.gif?cid=ecf05e47b545meov48ukxejkh97q1ax08mtmdq3mzs8blj0g&rid=giphy.gif&ct=s" width="30"></h1>
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngthanhtuung&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=5" alt="ngthanhtuung" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthanhtuung&layout=compact&bg_color=0d1117&text_color=ffffff&show_icons=true&locale=en" alt="ngthanhtuung" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ngthanhtuung&show_icons=true&theme=tokyonight" alt="ngthanhtuung" />
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ngthanhtuung&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ngthanhtuung" />
 </div>
