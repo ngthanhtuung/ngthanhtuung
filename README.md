@@ -3,7 +3,7 @@
 
 <br>
 <div>
-<img align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="adam-pw" width="452px" height="212px"/>
+<!-- <img align="center" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="adam-pw" width="452px" height="212px"/> -->
 
 - 🌱 I’m `junior` at Faculty of Information Technology at FPT University HCMC
 
