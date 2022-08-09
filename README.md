@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: Travel, Music, Movie ✈️🎵🍿are the reasons to live.
 
-- 🤳 Connect to me via social media: [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/tung-nguyen-2a06201a4/)](https://www.linkedin.com/in/tung-nguyen-2a06201a4/) [![GitHub](https://img.shields.io/twitter/url?label=Repositories&logo=github&url=https://github.com/ngthanhtuung?tab=repositories)](https://github.com/ngthanhtuung?tab=repositories) [![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https://www.facebook.com/ngthanhtuung/)](https://www.facebook.com/ngthanhtuung/) [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https://www.instagram.com/ngthanhtuung/)](https://www.instagram.com/ngthanhtuung/)
+- 🤳 Connect to me via social media: [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/ngthanhtuung/)](https://www.linkedin.com/in/ngthanhtuung/) [![GitHub](https://img.shields.io/twitter/url?label=Repositories&logo=github&url=https://github.com/ngthanhtuung?tab=repositories)](https://github.com/ngthanhtuung?tab=repositories) [![Facebook](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https://www.facebook.com/ngthanhtuung/)](https://www.facebook.com/ngthanhtuung/) [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https://www.instagram.com/ngthanhtuung/)](https://www.instagram.com/ngthanhtuung/)
 </div>
 
 <br>
