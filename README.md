@@ -13,7 +13,7 @@
 
 - 💼 I’m currently open for `an Intern` or a new `job opportunity`.
       
-- 📄 Click [`here`](https://drive.google.com/file/d/1hpxESkQk4tqiWSeh83P0BUAvUBSiYtW3/view?usp=sharing) to view my resume
+- 📄 Click [`here`](https://www.canva.com/design/DAFESjHbW88/pIRh8H15-vqg4h3IUcGqOA/view?utm_content=DAFESjHbW88&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to view my resume
 
 - ⚡ Fun fact: Travel, Music, Movie ✈️🎵🍿are the reasons to live.
 
