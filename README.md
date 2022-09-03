@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available [`here`](https://github.com/ngthanhtuung?tab=repositories)
 
-- 💼 I’m currently open for `an Intern` or a new `job opportunity`
+- 💼 I’m currently open for `an Intern` or a new `job opportunity`.
+      
+- 📄 Click [`here`](https://drive.google.com/file/d/1hpxESkQk4tqiWSeh83P0BUAvUBSiYtW3/view?usp=sharing) to view my resume
 
 - ⚡ Fun fact: Travel, Music, Movie ✈️🎵🍿are the reasons to live.
 
