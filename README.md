@@ -5,7 +5,7 @@
 <div>
 <!-- <img align="center" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="adam-pw" width="452px" height="212px"/> -->
 
-- 🌱 I’m `junior` at Faculty of Information Technology at FPT University HCMC
+- 🌱 I’m `senior student` at Faculty of Information Technology at FPT University HCMC
 
 - 📫 How to reach me [![](https://img.shields.io/badge/Email-tungnt16092001@gmail.com-blue?style=flat-square&logo=gmail)](mailto:tungnt16092001@gmail.com)
 
@@ -43,15 +43,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" />
 </a>
-<a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
-</a>
+      
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/5b101d9cfb7b73474403c651ad597ac7f4516b7b/icons/nodejs.svg"
       alt="nodejs" width="40" height="40" />
