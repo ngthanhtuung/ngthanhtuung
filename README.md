@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available [`here`](https://github.com/ngthanhtuung?tab=repositories)
 
-- 💼 I’m currently open for `an Intern` or a new `job opportunity`.
+- 💼 I’m currently open for `job opportunity`.
       
 - 📄 Click [`here`](https://www.canva.com/design/DAFESjHbW88/pIRh8H15-vqg4h3IUcGqOA/view?utm_content=DAFESjHbW88&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to view my resume
 
