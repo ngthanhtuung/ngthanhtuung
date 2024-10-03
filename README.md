@@ -1,19 +1,16 @@
 <h1 align="center">'Hello World' 👋, I'm Nguyen Thanh Tung</h1>
-<h3 align="center">🌟 Bachelor of Information Technology 🌟</h3>
 
 <br>
 <div>
 <!-- <img align="center" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="adam-pw" width="452px" height="212px"/> -->
 
-- 🌱 I’m `senior student` at Faculty of Information Technology at FPT University HCMC
+- 🌱 Bachelor of Information Technology
 
 - 📫 How to reach me [![](https://img.shields.io/badge/Email-tungnt16092001@gmail.com-blue?style=flat-square&logo=gmail)](mailto:tungnt16092001@gmail.com)
 
 - 👨‍💻 All of my projects are available [`here`](https://github.com/ngthanhtuung?tab=repositories)
 
 - 💼 I’m currently open for `job opportunity`.
-      
-- 📄 Click [`here`](https://www.canva.com/design/DAFESjHbW88/pIRh8H15-vqg4h3IUcGqOA/view?utm_content=DAFESjHbW88&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to view my resume
 
 - ⚡ Fun fact: Travel, Music, Movie ✈️🎵🍿are the reasons to live.
 
