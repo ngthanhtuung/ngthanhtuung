@@ -1,5 +1,5 @@
 <h1 align="center">'Hello World' 👋, I'm Nguyen Thanh Tung</h1>
-<h3 align="center">🌟 I'm a undergraduate at FPT University HCMC in Software Engineering 🌟.</h3>
+<h3 align="center">🌟 Bachelor of Information Technology 🌟</h3>
 
 <br>
 <div>
